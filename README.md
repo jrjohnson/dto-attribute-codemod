@@ -1,6 +1,6 @@
 # dto-attribute-codemod
 
-This is a "worked for me" code mod to go from doctrine annotations to attributes for configuring the ORM. Probably not useful as is, but as an example for anyone else looking to make a similiar change.
+This is a "worked for me" code mod to go from our custom annotations to attributes. Probably not useful as is, but as an example for anyone else looking to make a similiar change.
 
 ## Usage:
 
